@@ -1,1 +1,34 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background: silver;
+}
+.details{
+    margin-top: 40px;
+    text-align: center;
+}
+.edu{
+    margin-top: 30px;
+}
+.educat{
+    border-bottom: 2px solid white;
+}
+.school-detail{
+    display: flex;
+    gap: 60px;
+    margin-top: 20px;
+}
+.ski{
+    border-bottom: 2px solid white;
+}
+.info-skill{
+    font-style: italic;
+    font-weight: 400;
+}
+.skills{
+    margin-top: 40px;
+}
+.skill-details{
+    display: flex;
+    gap: 50px;
+    margin-top: 20px;
+}
